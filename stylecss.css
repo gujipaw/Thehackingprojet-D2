@@ -1,0 +1,19 @@
+body {
+    width: 100%;
+}
+
+body, input, button {
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    color: #222;
+}
+
+.nav {
+    display: flex;
+    min-width: auto;
+}
+
+.nav text {
+    font: 13px/27px Roboto,RobotoDraft,Arial,sans-serif;
+    z-index: 986;
+}
